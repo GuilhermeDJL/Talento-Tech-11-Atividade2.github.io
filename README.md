@@ -1,6 +1,6 @@
-# myapp
+# Programa Layout
 
-A new Flutter project.
+Projeto desenvolvido para a atividade 2 do Talento Tech 11
 
 ## Getting Started
 
